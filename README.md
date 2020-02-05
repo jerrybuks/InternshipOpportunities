@@ -14,8 +14,11 @@ A curated list of current and prospective internship opportunities
 - [KPMG](https://home.kpmg/ng/en/home/careers/kpmg-temporary-placement.html) - everyone, Lagos, Nigeria.
 - [Oando](https://www.oandoplc.com/hy19-internship-4/) - everyone, not sure yet.
 
+
 ## Contributing to this list
 - If you know about other internship opportunities not included here or find any errors, please send a PR.
 - Please follow the existing format of entries(organiztion, category, location).
 - Try to keep related resources next to each other.
 - Please only add **high-quality** internship positions to this list.
+
+## Click the watch button, if you would like to be notified, when changes are made to this repo
